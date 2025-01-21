@@ -1,0 +1,7 @@
+{
+  "name": "lista_iteractiva",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
